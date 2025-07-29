@@ -10,13 +10,13 @@
         "mcp",
         "mcp",
         "run",
-        "/Users/zlddn/mcp-server-demo/mymcp.py"
+        "/Users/zlddn/mcp-server-demo/exa.py"
       ],
       "env": {
-        "USERNAME": "admin",
-        "PASSWORD": "DDNSolutions4U",
-        "URL": "https://10.73.48.41:7443",
-        "TLSVERIFY": "False"
+        "USERNAME": xxxx,
+        "PASSWORD": xxxx,
+        "URL": xxxx,
+        "TLSVERIFY": xxxx
       }
     }
   }
