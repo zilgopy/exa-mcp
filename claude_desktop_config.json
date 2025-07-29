@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "exascaler": {
+      "command": "/Users/zlddn/.local/bin/uv",
+      "args": [
+        "run",
+        "--project",
+        "/Users/zlddn/mcp-server-demo",
+        "--with",
+        "mcp",
+        "mcp",
+        "run",
+        "/Users/zlddn/mcp-server-demo/mymcp.py"
+      ],
+      "env": {
+        "USERNAME": "admin",
+        "PASSWORD": "DDNSolutions4U",
+        "URL": "https://10.73.48.41:7443",
+        "TLSVERIFY": "False"
+      }
+    }
+  }
+}
